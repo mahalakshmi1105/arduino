@@ -18,3 +18,4 @@ plotter.camera.SetViewUp([0, 0, 1])      # z-axis is up
 
 # Show the avatar
 plotter.show(avatar, zoom=1.0, interactive=True)
+
